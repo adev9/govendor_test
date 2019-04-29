@@ -1,5 +1,5 @@
 //wsclt/wsclt.go
-package wsclt
+package main
 
 import (
 	"fmt"

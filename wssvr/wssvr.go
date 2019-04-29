@@ -1,5 +1,5 @@
 //wssvr/wssvr.go
-package wssvr
+package main
 
 import (
 	"fmt"
