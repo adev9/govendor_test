@@ -1,4 +1,4 @@
-.PHONY: enable-race
+ .PHONY: enable-race
 enable-race:
 	$(eval RACE = -race)
 
